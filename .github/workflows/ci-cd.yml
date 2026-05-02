@@ -30,4 +30,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: sedkameni/ml-cd-lab:latest
+          tags: sedkamen/ml-cd-lab:latest
